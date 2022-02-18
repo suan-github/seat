@@ -1,6 +1,6 @@
 <!doctype html>
 
-<!--用en中間文字部分也打到中文字可以嗎-->
+<!--用en中間文字部分也打到中文字可以嗎?-->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,11 +29,7 @@
         $Android="Android";
         $Infra="Infra";
         $UIUX="UIUX";
-        $PM="PM";
-        /*$研發B="研發B";
-        $助理="助理";
-        $人資="人資"*/
-        ?>
+        $PM="PM";?>
             <tr>
                 <!--1-->
                 <td class="tg-0" colspan="2">主任<br/>Alan</td>
