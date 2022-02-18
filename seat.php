@@ -32,16 +32,16 @@
         $PM="PM";?>
         <tr>
             <!--1-->
-            <td class="tg-0" colspan="2">主任<br/>Alan</td>
+            <td class="tg-0" colspan="2" style="font-weight:800; color: black">主任<br/>Alan</td>
             <td class="tg-0" colspan="2">Ryan</td>
             <td class="tg-0" colspan="2">Milly<br/>Abby</td>
-            <td class="tg-0" colspan="2">組長<br>Baron</td>
+            <td class="tg-0" colspan="2" style="font-weight:800; color: black">組長<br>Baron</td>
             <td class="tg-0" colspan="2">Thomas</td>
-            <td class="tg-0" colspan="2">組長<br>Daniel</td>
+            <td class="tg-0" colspan="2" style="font-weight:800; color: black">組長<br>Daniel</td>
             <td class="tg-0" colspan="5" rowspan="3">機房</td>
             <td class="tg-0" colspan="4" rowspan="3">倉庫</td>
             <td class="tg-0" rowspan="3">櫃子</td>
-            <td class="tg-0" colspan="3" rowspan="3" style="border-bottom-color: #5faae0;">大門</td>
+            <td class="tg-0" colspan="3" rowspan="3" style="border-bottom-color: #5faae0;border-bottom-width: initial;">大門</td>
             <td class="tg-0" rowspan="2">櫃子</td>
             <td class="tg-0" rowspan="2">冰箱</td>
             <td class="tg-0" colspan="3">茶水間</td>
@@ -59,11 +59,11 @@
         <tr>
             <!--3-->
             <td class="tg-0" colspan="2">Tim</td>
-            <td class="tg-0" colspan="2">組長<br>Shaq</td>
+            <td class="tg-0" colspan="2" style="font-weight:800; color: black">組長<br>Shaq</td>
             <td class="tg-0" colspan="2">Eddie</td>
             <td class="tg-0" colspan="2">Roy<br>Jasper</td>
             <td class="tg-0" colspan="2">Owen<br>Tom</td>
-            <td class="tg-0" colspan="2" style="border-top:none;border-bottom-color: #5faae0;">iCare</td>
+            <td class="tg-0" colspan="2" style="border-top:none;border-bottom-color: #5faae0;border-bottom-width: initial;">iCare</td>
             <td class="tg-0" style="border-right: none;border-bottom: none;"></td>
             <td class="tg-0" style="border-right: none;border-bottom: none;border-left: none;"></td>
             <td class="tg-0" colspan="3" style="border-top: none;border-left: none;"></td>
@@ -98,7 +98,7 @@
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$QA";?></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$IOS";?></td>
             <td class="none-tb"></td>
-            <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$Android<br>組長<br>Hemly"?></td>
+            <td class="tg-0" colspan="2" rowspan="2" style="font-weight:800; color: black"><?PHP echo"$Android<br>組長<br>Hemly"?></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$Infra";?></td>
             <td class="none-tb"></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$Infra";?></td>
@@ -118,7 +118,7 @@
         <tr>
             <!--7-->
             <td class="none-tb"></td>
-            <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$PHP<br>Kay";?></td>
+            <td class="tg-0" colspan="2" rowspan="2" style="font-weight:800; color: black"><?PHP echo"$PHP 副理<br>Kay";?></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$PHP<br>David";?></td>
             <td class="none-tb"></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$VUE<br>Ray";?></td>
@@ -128,7 +128,7 @@
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$IOS<br>Jenny";?></td>
             <td class="none-tb"></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$Android<br>Willam"?></td>
-            <td class="tg-0" colspan="2" rowspan="2">運維副理<br>Jack</td>
+            <td class="tg-0" colspan="2" rowspan="2" style="font-weight:800; color: black">運維副理<br>Jack</td>
             <td class="none-tb"></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$Infra<br>Tim";?></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"研發B";?></td>
@@ -174,14 +174,14 @@
         <tr>
             <!--11-->
             <td class="none-tb"></td>
-            <td class="tg-0" colspan="2" rowspan="2">技術總監<br>Riven</td>
+            <td class="tg-0" colspan="2" rowspan="2" style="font-weight:800; color: black">技術總監<br>Riven</td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$PHP<br>Lu";?></td>
             <td class="none-tb"></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$VUE";?></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$PM<br>Winnie";?></td>
             <td class="none-tb"></td>
             <td class="tg-0" colspan="2" rowspan="2"><?PHP echo"$UIUX<br>Kiara";?></td>
-            <td class="tg-0" colspan="2" rowspan="2">APP副理<br>Rico</td>
+            <td class="tg-0" colspan="2" rowspan="2" style="font-weight:800; color: black">APP副理<br>Rico</td>
             <td class="none-tb"></td>
             <td class="tg-0" colspan="2" rowspan="2"></td>
             <td class="tg-0" colspan="2" rowspan="2"></td>
@@ -201,7 +201,7 @@
         </tr>
         <tr>
             <!--13-->
-            <td class="tg-0" colspan="6" rowspan="4">總經理室<br><br>總經理<br>Luke</td>
+            <td class="tg-0" colspan="6" rowspan="4" style="font-weight:800; color: black">總經理室<br><br>總經理<br>Luke</td>
             <td class="none-rb"></td>
             <td class="none-rl" colspan="6">管理部</td>
             <td class="none-rlb"></td>
@@ -212,7 +212,7 @@
         <tr>
             <!--14-->
             <td class="none-tb" rowspan="2"></td>
-            <td class="tg-0" colspan="2" rowspan="2">經理<br>Kelly</td>
+            <td class="tg-0" colspan="2" rowspan="2" style="font-weight:800; color: black">經理<br>Kelly</td>
             <td class="tg-0" colspan="2">行政<br>Vicky</td>
             <td class="tg-0" colspan="2"></td>
             <td class="none-trb"></td>
