@@ -2,11 +2,31 @@
 {
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
     text-align:center;
+    color: black;
     border-spacing:0;
     border-collapse: collapse;
     margin:0 auto;
     vertical-align: middle;
     width: 100%;
+}
+
+.button
+{
+    float: right;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-weight: 800;
+}
+
+.MemForm
+{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-weight: 800;
+    text-align:center;
+    padding: 5px;
+    margin: 8px;
 }
 
 .seat
@@ -27,6 +47,12 @@ td
 {
     border-left: none;
     border-right: none;
+}
+
+.none-tl
+{
+    border-top: none;
+    border-left: none;
 }
 
 .none-trl
@@ -58,12 +84,14 @@ td
     border-right: none;
     border-bottom: none;
 }
+
 .none-trb
 {
     border-top: none;
     border-right: none;
     border-bottom: none;
 }
+
 .none-tr
 {
     border-top: none;
@@ -74,3 +102,54 @@ td
 {
     border-left: none;
 }
+
+.none-r
+{
+    border-right: none;
+}
+
+.none-lb
+{
+    border-left: none;
+    border-bottom: none;
+}
+
+.FW8-Cb
+{
+    font-weight: 800;
+    color: black;
+}
+
+.BC-BW
+{
+    border-bottom-color: #5faae0;
+    border-bottom-width: initial;
+}
+
+.none
+{
+    border: none;
+}
+
+#formtitle
+{
+    font-weight: 900;
+    font-size: 1cm;
+}
+
+fieldset
+{
+    width: 300px;
+    margin: 0 auto;
+}
+
+legend{
+    animation: move 3s infinite linear alternate;}
+    @keyframes move { 100% {margin-left: 30px;}}
+    
+#name,#title
+{
+    padding: 3px;
+    margin: 10px;
+}
+
